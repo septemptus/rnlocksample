@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MyTheme" parent="Lock.Theme">
+      <item name="Auth0.PrimaryColor">@android:color/holo_blue_light</item>
+    </style>
+
+</resources>
